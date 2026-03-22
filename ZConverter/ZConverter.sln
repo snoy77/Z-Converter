@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZConverterConsole", "ZConverterConsole\ZConverterConsole.csproj", "{D29743F3-C213-48CE-9C46-5C0421D9486B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D29743F3-C213-48CE-9C46-5C0421D9486B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29743F3-C213-48CE-9C46-5C0421D9486B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29743F3-C213-48CE-9C46-5C0421D9486B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29743F3-C213-48CE-9C46-5C0421D9486B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05110E72-1CDD-425A-96A7-FEAA79224AED}
+	EndGlobalSection
+EndGlobal
